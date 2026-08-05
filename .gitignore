@@ -1,0 +1,27 @@
+# Godot generated files
+.godot/
+*.tmp
+
+# Exported builds
+builds/
+exports/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/settings.json
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.keystore
+.godot/export_credentials.cfg
+
+# Audio editor caches and renders
+audio/_renders/
+audio/_cache/
+
+# Video renders
+video/renders/
